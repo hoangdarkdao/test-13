@@ -1,0 +1,83 @@
+{
+    "tsp_semo": {
+        "MoMCTS": [
+                "logs/momcts/tsp_semo/v3/samples/samples_1~300.json",
+                "logs/momcts/tsp_semo/v2/samples/samples_1~300.json",
+                "logs/momcts/tsp_semo/v4/samples/samples_1~300.json"
+            ],
+        "NSGA2": [
+            "logs/nsga2/tsp_semo/v4/samples/samples_1~300.json",
+            "logs/nsga2/tsp_semo/v1/samples/samples_1~300.json",
+            "logs/nsga2/tsp_semo/v3/samples/samples_1~300.json"
+        ],
+        "MEOH": [
+            "logs/meoh/tsp_semo/v1/samples/samples_1~300.json",
+            "logs/meoh/tsp_semo/v3/samples/samples_1~300.json",
+            "logs/meoh/tsp_semo/v4/samples/samples_1~300.json"
+        ],
+        "MOMEA": [
+            "logs/moead/tsp_semo/v1/samples/samples_1~300.json",
+            "logs/moead/tsp_semo/v2/samples/samples_1~300.json",
+            "logs/moead/tsp_semo/v3/samples/samples_1~300.json"
+        ],
+        "MPAGE": [
+            "logs/mpage/tsp_semo/v1/samples/samples_1~300.json",
+            "logs/mpage/tsp_semo/v2/samples/samples_1~300.json",
+            "logs/mpage/tsp_semo/v3/samples/samples_1~300.json"
+        ]
+    },
+    "bi_kp": {
+        "MoMCTS": [
+            "logs/momcts/bi_kp/v1/samples/samples_1~300.json",
+            "logs/momcts/bi_kp/v2/samples/samples_1~300.json",
+            "logs/momcts/bi_kp/v3/samples/samples_1~300.json"
+        ],
+       
+        "NSGA2": [
+            "logs/nsga2/bi_kp/v1/samples/samples_1~300.json",
+            "logs/nsga2/bi_kp/v2/samples/samples_1~300.json",
+            "logs/nsga2/bi_kp/v3/samples/samples_1~300.json"
+        ],
+        "MEoH": [
+            "logs/meoh/bi_kp/v1/samples/samples_1~300.json",
+            "logs/meoh/bi_kp/v2/samples/samples_1~300.json",
+            "logs/meoh/bi_kp/v3/samples/samples_1~300.json"
+        ],
+        "MOEAD": [
+            "logs/moead/bi_kp/v1/samples/samples_1~300.json",
+            "logs/moead/bi_kp/v2/samples/samples_1~300.json",
+            "logs/moead/bi_kp/v3/samples/samples_1~300.json"
+        ],
+        "MPAGE": [
+            "logs/mpage/bi_kp/v1/samples/samples_1~300.json",
+            "logs/mpage/bi_kp/v2/samples/samples_1~300.json",
+            "logs/mpage/bi_kp/v3/samples/samples_1~300.json"
+        ]
+    },
+    "bi_cvrp": {
+        "MoMCTS": [
+                "logs/momcts/bi_cvrp/v1/samples/samples_1~300.json",
+                "logs/momcts/bi_cvrp/v2/samples/samples_1~300.json",
+                "logs/momcts/bi_cvrp/v3/samples/samples_1~300.json"
+                ],
+        "MPaGe": [
+            "logs/mpage/bi_cvrp/v1/samples/samples_0~300.json",
+            "logs/mpage/bi_cvrp/v2/samples/samples_0~300.json",
+            "logs/mpage/bi_cvrp/v3/samples/samples_0~300.json"
+        ],
+        "NSGA2": [
+            "logs/nsga2/bi_cvrp/v1/samples/samples_0~300.json",
+            "logs/nsga2/bi_cvrp/v2/samples/samples_0~300.json",
+            "logs/nsga2/bi_cvrp/v3/samples/samples_0~300.json"
+        ],
+        "MEoH": [
+            "logs/meoh/tsp_semo/v1/samples/samples_1~300.json"
+        ],
+        "MOMEA": [
+            "logs/moead/bi_cvrp/v1/samples/samples_0~300.json",
+            "logs/moead/bi_cvrp/v3/samples/samples_0~300.json",
+            "logs/moead/bi_cvrp/v2/samples/samples_0~300.json"
+        ]
+         
+    }
+}
